@@ -6,7 +6,7 @@ A website where you can keep track of your budget, financial goals, and visualiz
 Awarded 97% on the project. [Demo](ezy-life.herokuapp.com/)
 
 ### Contributors:
-- Gilbert Vincenta
-- Erya Wen
-- Garvin Bulkin
-- Firman Trihardjo
+- [Gilbert Vincenta](https://github.com/gvincenta)
+- [Erya Wen](https://github.com/eryaw)
+- [Garvin Bulkin](https://github.com/garviin)
+- [Firman Trihardjo](https://github.com/fotto55)
